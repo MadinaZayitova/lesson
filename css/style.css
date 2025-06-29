@@ -10,3 +10,11 @@ header{
     text-align: center;
     padding: 20px;
 }
+
+
+footer{
+    background-color:rgb(10, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
